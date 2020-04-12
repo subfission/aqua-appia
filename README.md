@@ -14,3 +14,11 @@ Modular, sensor driven, and affordable irrigation.
 - Pest Laser
 - Multi-Speed Fan Control 
 - Multi-Position Vent Control
+
+## Interfaces
+- Web
+- Mobile
+- CLI?
+- API Driven
+- Push Notifications
+- Log all events, log handling (rotation, offsite copying when full)
